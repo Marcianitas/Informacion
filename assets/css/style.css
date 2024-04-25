@@ -1,0 +1,166 @@
+#logo_marcis{
+    display: block;
+    width: 10%;
+    margin: auto;
+}
+#indice{
+    font-family: 'Times New Roman';
+    text-shadow: 0px 3px 6px rgb(28, 241, 0);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+#descarbox {
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:contain;
+    /* Propiedades Agregadas */
+    font-family: 'Times New Roman';
+    text-shadow: 0px 3px 6px rgb(245, 0, 0);
+    text-align: center;
+    color: rgba(255, 0, 242, 0.76);
+    }
+    #descarbox img{
+        width: 5%;
+    }
+#thc_cbd {
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:contain;
+    /* Propiedades Agregadas */
+    font-family: 'Times New Roman';
+    text-shadow: 0px 3px 6px rgb(245, 0, 0);
+    text-align: center;
+    color: rgba(255, 0, 242, 0.76);
+    }
+    #thc_cbd img{
+        width: 5%;
+    }
+#recetas {
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:contain;
+    /* Propiedades Agregadas */
+    font-family: 'Times New Roman';
+    text-shadow: 0px 3px 6px rgb(245, 0, 0);
+    text-align: center;
+    color: rgba(255, 0, 242, 0.76);
+    }
+    #recetas img{
+        width: 5%;
+    }
+#descarboxilar img{
+    width: 30%;
+    margin: auto;
+    display: block;
+}
+.thc img{
+    width: 60%;
+}
+.thc .texto {
+    width: 30%;
+    margin-left: 4%;
+    }
+    .thc img, .texto {
+        display: inline-block;
+        vertical-align: middle;
+        }
+#queque{
+    background-color: #3dc208;
+}
+#queque img{
+    text-align: left;
+    display: block;
+    width:25%;
+}
+#galleta{
+    background-color:#08c227;
+}
+#galleta img{
+    text-align: left;
+    display: block;
+    width:25%;
+    }
+#ensalada{
+    background-color:#3dc208;
+}
+#ensalada img{
+    text-align: left;
+    display: block;
+    width:20%;
+    }
+
+#cont {
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:contain;
+    /* Propiedades Agregadas */
+    font-family: 'Times New Roman';
+    text-shadow: 0px 3px 6px rgb(245, 0, 0);
+    text-align: center;
+    color: rgba(255, 0, 242, 0.76);
+    }
+        header h3{
+            font-size: 40px;
+            font-weight: lighter;
+            text-align: center;
+            }
+            #descarboxilar {
+                background: #3dc208;
+                padding: 100px;
+                color: white;
+                }
+                #descarboxilar .wrapper {
+                width: 800px;
+                margin: auto;
+                }
+
+            .thc {
+                background: #3dc208;
+                padding: 100px;
+                color: white;
+                }
+                .thc .wrapper {
+                width: 800px;
+                margin: auto;
+                }
+            .receta {
+                background: #3dc208;
+                padding: 100px;
+                color: white;
+                }
+                .receta .wrapper {
+                width: 800px;
+                margin: auto;
+                }
+
+            #contactanos {
+                background: #3dc208;
+                padding: 100px;
+                color: white;
+                }
+                #contactanos .wrapper {
+                width: 800px;
+                margin: auto;
+                }
+                .wrapper img {
+                    width: 25%;
+                    }
+                    .wrapper .texto {
+                    width: 70%;
+                    margin-left: 4%;
+                    }
+                    .wrapper img, .texto {
+                        display: inline-block;
+                        vertical-align: middle;
+                        }
+footer {
+    background-color:aquamarine;
+    font-family: 'Times New Roman';
+    text-shadow: 0px 3px 6px rgb(245, 0, 0);
+    text-align: center;
+    color: rgba(255, 0, 242, 0.76);
+}
+footer img{
+    width: 5%;
+}
