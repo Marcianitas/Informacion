@@ -21,7 +21,8 @@
     color: rgba(255, 0, 242, 0.76);
     }
     #descarbox img{
-        width: 5%;
+        width: 100%;
+        padding: 20px;
     }
 #thc_cbd {
     background-position:center;
@@ -34,7 +35,8 @@
     color: rgba(255, 0, 242, 0.76);
     }
     #thc_cbd img{
-        width: 5%;
+        width: 100%;
+        padding: 20px;
     }
 #recetas {
     background-position:center;
@@ -47,18 +49,21 @@
     color: rgba(255, 0, 242, 0.76);
     }
     #recetas img{
-        width: 5%;
+        width: 100%;
+        padding: 20px;
     }
 #descarboxilar img{
-    width: 30%;
+    width: 100%;
+    padding: 20px;
     margin: auto;
     display: block;
 }
 .thc img{
-    width: 60%;
+    width: 100%;
+    padding: 20px;
 }
 .thc .texto {
-    width: 30%;
+    width: 100%;
     margin-left: 4%;
     }
     .thc img, .texto {
